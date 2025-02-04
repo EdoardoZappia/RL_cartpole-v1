@@ -1,4 +1,4 @@
-In this repository, you will find implementations of various algorithms designed to solve the CartPole-v1 task.  
+In this repository, you will find implementations of various RL algorithms used to solve the CartPole-v1 task.  
 
 Specifically, I have implemented:  
 - DQN  
