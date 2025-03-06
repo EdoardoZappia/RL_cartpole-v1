@@ -4,5 +4,5 @@ In particular:
 - DDQN
 - REINFORCE
 - REINFORCE with baseline
-- PPO
 - Advantage Actor Critic (TD)
+- PPO
